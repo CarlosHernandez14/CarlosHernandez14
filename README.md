@@ -22,16 +22,20 @@ I'm always seeking new challenges that allow me to keep learning and creating ef
 
 ### 🔧 **Skills & Technologies**  
 
-- 🛠️ **Software Architecture Design**  
-- 🚀 **NextJS Framework** with **ReactJS**  
-- 🐘 **PostgreSQL**
-- 🐘 **SQLServer**
-- 🧑‍💻 **JavaScript API Development**  
-- 🏗️ **Containerization with Docker**  
-- 🎨 **TailwindCSS Framework**  
-- 🔄 **gRPC / MQTT**  
-- 📂 **Git & GitHub**  
-- 💻 **Data Structures & Algorithms**  
+[![Software Architecture Design Badge](https://img.shields.io/badge/-Software%20Architecture%20Design-007396?style=for-the-badge&labelColor=black&logo=data:image/svg+xml;base64,PASELBASE64_DE_TU_LOGO)](#)
+[![NextJS Badge](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FFFFFF)](#)
+[![ReactJS Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
+[![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
+[![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
+[![gRPC Badge](https://img.shields.io/badge/-gRPC-4285F4?style=for-the-badge&labelColor=black&logo=google&logoColor=4285F4)](#)
+[![MQTT Badge](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&labelColor=black&logo=eclipse-mosquitto&logoColor=660066)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)](#)
+[![Data Structures & Algorithms Badge](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)](#)
+
 
 ---
 
