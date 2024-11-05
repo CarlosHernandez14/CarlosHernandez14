@@ -1,14 +1,21 @@
 # 👨‍💻 CarlosHernandez14
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/CarlosHernandez14">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Software%20Engineer;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
 🚀 **Software Engineer | Specialist in JavaScript with NextJs Framework & RESTful API Integration**  
 🎓 Computer Science student at Instituto Tecnológico de Morelia  
-📍 Morelia, Michoacán, Mexico  
+📍 Morelia, Michoacán, Mexico
 
 ---
 
 ### 🌟 About Me
 
-Hello! I'm a passionate software engineer specializing in backend development and robust software architecture. I focus on improving eCommerce platform performance using technologies like **NextJS**, **JavaScript**, and **PostgreSQL**. I have experience integrating third-party APIs and working with microservices and distributed databases.  
+Hello! I'm a passionate software engineer specializing in backend and frontend development and robust software architecture. I focus on improving eCommerce platform performance using technologies like **NextJS**, **JavaScript**, and **PostgreSQL**. I have experience integrating third-party APIs and working with microservices and distributed databases.  
 I'm always seeking new challenges that allow me to keep learning and creating efficient, scalable solutions.
 
 ---
