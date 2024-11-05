@@ -1,6 +1,6 @@
-# 👨‍💻 Carlos Hernandez Cortes
+# 👨‍💻 CarlosHernandez14
 
-🚀 **Software Engineer | Specialist in NextJS & RESTful API Integration**  
+🚀 **Software Engineer | Specialist in JavaScript with NextJs Framework & RESTful API Integration**  
 🎓 Computer Science student at Instituto Tecnológico de Morelia  
 📍 Morelia, Michoacán, Mexico  
 
