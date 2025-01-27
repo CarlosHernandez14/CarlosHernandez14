@@ -7,7 +7,7 @@
 </p>
 
 
-🚀 **Software Engineer | Specialist in JavaScript with NextJs Framework & RESTful API Integration**  
+🚀 **Software Engineer | Specialist in JavaScript with Typescript and NextJs Framework & RESTful API Integration**  
 🎓 Computer Science student at Instituto Tecnológico de Morelia  
 📍 Morelia, Michoacán, Mexico
 
@@ -15,7 +15,7 @@
 
 ### 🌟 About Me
 
-Hello! I'm a passionate software engineer specializing in backend and frontend development and robust software architecture. I focus on improving eCommerce platform performance using technologies like **NextJS**, **JavaScript**, and **PostgreSQL**. I have experience integrating third-party APIs and working with microservices and distributed databases.  
+Hello! I'm a passionate software engineer specializing in backend and frontend development and robust software architecture. I focus on improving eCommerce platform performance using technologies like **NextJS**, **JavaScript with Typescript**, and **PostgreSQL**. I have experience integrating third-party APIs and working with microservices and distributed databases.  
 I'm always seeking new challenges that allow me to keep learning and creating efficient, scalable solutions.
 
 ---
