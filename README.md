@@ -7,7 +7,7 @@
 </p>
 
 
-🚀 **Software Engineer | Specialist in JavaScript with Typescript and NextJs Framework & RESTful API Integration**  
+🚀 **Software Engineer | Backend Developer Specialist in Spring Boot and it's modules | NodeJs with Typescript | NextJs Framework & RESTful API Integration**  
 🎓 Computer Science student at Instituto Tecnológico de Morelia  
 📍 Morelia, Michoacán, Mexico
 
@@ -35,7 +35,11 @@ I'm always seeking new challenges that allow me to keep learning and creating ef
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)](#)
 [![Data Structures & Algorithms Badge](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)](#)
-
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 
 ---
 
